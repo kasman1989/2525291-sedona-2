@@ -1,0 +1,21 @@
+.footer-block {
+  background-image: url("../img/footer-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 0 1200;
+}
+
+.filter {
+  background-image: url("../img/filter-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 0 1200;
+}
+
+.card-img {
+  width: 300px;
+  height: 212px;
+}
+.subscribe-catalog {
+  background-image: url("../img/footer-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 0 1200;
+}
